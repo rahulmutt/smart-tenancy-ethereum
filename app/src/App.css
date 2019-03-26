@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.section {
+  text-align: left;
+  max-width: 720px;
+  margin: 4rem auto auto;
+}
+
+.nav-tabs a {
+  width: 50%;
+  text-align: center;
+  color: white;
+}
+
+.tab-content {
+  padding: 50px;
+  border: 5;
+  border-color: white;
+  border-style: solid;
+}
+
+/* .App .navbar{
+  height: 80px;
+} */
+
+.navbar-brand img{
+  margin-right: 20px;
+}
+
+.nav-tabs {
+  border-color: white;
+}
+
+.nav-tabs .nav-link.active {
+  border-color: white;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.navbar-light .navbar-brand {
+  color: white;
+}
+
+.row {
+  padding: 50px;
+}
+
+.card {
+  padding: 25px;
+  color: black;
+}

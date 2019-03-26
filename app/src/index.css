@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto",
+    "Ubuntu";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background:#31BEBE;
+  color: white;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+} 
+
+td.paid{
+  background-color: #218838;
+}
+
+td.notPaid{
+  background-color: #C82233;
+}
+
+td a{
+  display: block;
+  color: white;
+}
+
+.mainHeader {
+   height: 100px;
+   width: 100%;
+   background: white; 
+   position: relative;
+   top: -30px;
+}
+
+.circleSuccess {
+  height: 50px;
+  width: 50px;
+  background-color: #28A645;
+  border-radius: 50%;
+}
+
+
